@@ -14,7 +14,7 @@ Schweiz
 T +41 (0)71 983 42 90<br/>
 F +41 (0)71 988 33 91<br/>
 
-[ruth.bosshart@bluewin.ch](mailto:ruth.bosshart@bluewin.ch){: .btn .btn-blue }
+ruth.bosshart@bluewin.ch
 
 ## Presse
 
