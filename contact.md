@@ -33,12 +33,12 @@ Heide Stoll-Weber: [http://www.farbstoff.com/](http://www.farbstoff.com/){:targe
 
 Judith Mundwiler: [http://www.judithmundwiler.ch/](http://www.judithmundwiler.ch/){:target="_blank"}
 
-Edith Bieri: [http://www.quiltsundmehr.ch/](http://www.quiltsundmehr.ch/){:target="_blank"}
+Edith Bieri: [http://quiltsundmehr.blogspot.com/](http://quiltsundmehr.blogspot.com/){:target="_blank"}
 
 Marlis Egger: [http://marlisegger.com/](http://marlisegger.com/){:target="_blank"}
 
 Ursula Rauch: [http://www.ursularauch.de/](http://www.ursularauch.de/){:target="_blank"}
 
-Elsbeth Nusser-Lampe: [http://www.elsbethnusser-lampe.meinatelier.de/](http://www.elsbethnusser-lampe.meinatelier.de/){:target="_blank"}
+Elsbeth Nusser-Lampe: [https://www.elsbethnusser-lampe.de/](https://www.elsbethnusser-lampe.de/){:target="_blank"}
 
 Maryline Collioud-Robert: [http://www.marylinecollioudrobert.com/FR/Bienvenue.html](http://www.marylinecollioudrobert.com/FR/Bienvenue.html){:target="_blank"}
