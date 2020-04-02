@@ -1,10 +1,10 @@
 ---
-title: Kontakt(e)
+title: Kontakt & Presse
 has_children: false
 nav_order: 6
 ---
 
-# Presse & Kontakt(e)
+# Kontakt & Presse
 
 Ruth Bosshart-Rohrbach<br/>
 Wigetshof<br/>
