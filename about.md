@@ -9,6 +9,7 @@ nav_order: 2
 ![](images/foto-275x300.jpg)
 
 Ich wurde am 18. Dezember 1949 geboren, bin in Zürich aufgewachsen und seit 1980 wohnhaft im Toggenburg in der Ostschweiz. Auf meine Erstausbildung zur Floristin folgte eine Ausbildung als Aktivierungstherapeutin. Ich bin Mutter von drei erwachsenen Kindern und zudem eine leidenschaftliche Gärtnerin und Köchin.
+{: .fs-6 .fw-300 }
 
 ## Quilten und Patchworken: der Anfang
 
