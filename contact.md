@@ -25,9 +25,9 @@ Einzelausstellung in Ganterschwil, 2009
 
 ## Kontakte
 
-Nancy Crow: [https://www.nancycrow.com/](https://blog.bernina.com/de/2015/10/eroeffnung-europaeischen-quilt-triennale/){:target="_blank"}
+Nancy Crow: [https://www.nancycrow.com/](https://www.nancycrow.com/){:target="_blank"}
 
-Cécile Trentini: [https://www.stoffwerke.ch/](https://www.stoffwerke.ch/){:target="_blank"}
+Cécile Trentini: [https://www.ceciletrentini.ch/](https://www.ceciletrentini.ch/){:target="_blank"}
 
 Heide Stoll-Weber: [https://www.farbstoff.com/](https://www.farbstoff.com/){:target="_blank"}
 
