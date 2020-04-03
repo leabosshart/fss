@@ -7,7 +7,7 @@ nav_order: 6
 # Kontakt & Presse
 
 Ruth Bosshart-Rohrbach<br/>
-Wigetshof<br/>
+Wigetshof 441<br/>
 CH-9621 Oberhelfenschwil<br/>
 Schweiz
 
@@ -26,20 +26,20 @@ Einzelausstellung in Ganterschwil, 2009
 
 ## Kontakte
 
-Nancy Crow: [http://www.nancycrow.com/](http://www.nancycrow.com/){:target="_blank"}
+Nancy Crow: [nancycrow.com](http://www.nancycrow.com/){:target="_blank"}
 
-Cécile Trentini: [http://www.ceciletrentini.ch/](http://www.ceciletrentini.ch/){:target="_blank"}
+Cécile Trentini: [ceciletrentini.ch](http://www.ceciletrentini.ch/){:target="_blank"}
 
-Heide Stoll-Weber: [http://www.farbstoff.com/](http://www.farbstoff.com/){:target="_blank"}
+Heide Stoll-Weber: [farbstoff.com](http://www.farbstoff.com/){:target="_blank"}
 
-Judith Mundwiler: [http://www.judithmundwiler.ch/](http://www.judithmundwiler.ch/){:target="_blank"}
+Judith Mundwiler: [judithmundwiler.ch](http://www.judithmundwiler.ch/){:target="_blank"}
 
-Edith Bieri: [http://quiltsundmehr.blogspot.com/](http://quiltsundmehr.blogspot.com/){:target="_blank"}
+Edith Bieri: [quiltsundmehr.blogspot.com](http://quiltsundmehr.blogspot.com/){:target="_blank"}
 
-Marlis Egger: [http://marlisegger.com/](http://marlisegger.com/){:target="_blank"}
+Marlis Egger: [marlisegger.com](http://marlisegger.com/){:target="_blank"}
 
-Ursula Rauch: [http://www.ursularauch.de/](http://www.ursularauch.de/){:target="_blank"}
+Ursula Rauch: [ursularauch.de](http://www.ursularauch.de/){:target="_blank"}
 
-Elsbeth Nusser-Lampe: [https://www.elsbethnusser-lampe.de/](https://www.elsbethnusser-lampe.de/){:target="_blank"}
+Elsbeth Nusser-Lampe: [elsbethnusser-lampe.de](https://www.elsbethnusser-lampe.de/){:target="_blank"}
 
-Maryline Collioud-Robert: [http://www.marylinecollioudrobert.com/FR/Bienvenue.html](http://www.marylinecollioudrobert.com/FR/Bienvenue.html){:target="_blank"}
+Maryline Collioud-Robert: [marylinecollioudrobert.com](http://www.marylinecollioudrobert.com){:target="_blank"}
