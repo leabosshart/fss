@@ -7,8 +7,6 @@ nav_order: 3
 
 # Werke 2011-2014
 
-<!-- <img src="image.png" loading="lazy" alt="" width="512"> -->
-
 <img src="images/works-2011-2014/1.png" loading="lazy" alt="" width="512">
 
 Ohne Titel

@@ -7,8 +7,6 @@ nav_order: 2
 
 # Werke 2015 & 2016
 
-<!-- <img src="image.png" loading="lazy" alt="" width="512"> -->
-
 <img src="images/works-2015-2016/1-maze-of-colors.png" loading="lazy" alt="" width="512">
 
 Maze of Colors

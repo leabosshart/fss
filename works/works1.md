@@ -7,8 +7,6 @@ nav_order: 1
 
 # Werke 2017–2019
 
-<!-- <img src="image.png" loading="lazy" alt="" width="512"> -->
-
 <img src="images/works-2017-2019/1-intersections-blue.png" loading="lazy" alt="" width="512">
 
 Intersections Blue / Blau
