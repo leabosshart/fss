@@ -1,5 +1,5 @@
 ---
-title: Willkommen
+title: Home
 has_children: false
 nav_order: 1
 description: "Website von Ruth Bosshart-Rohrbach"
