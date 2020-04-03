@@ -1,10 +1,3 @@
----
-title: Color improvisations 2 in Konstanz
-parent: Ausstellungen
-has_children: false
-nav_order: 1
----
-
 # Color improvisations 2 in Konstanz
 
 ![](images/exhibitions1/1.jpg)

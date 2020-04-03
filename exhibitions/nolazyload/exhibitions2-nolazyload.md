@@ -1,10 +1,3 @@
----
-title: Ausstellung Rathaus Lichtensteig
-parent: Ausstellungen
-has_children: false
-nav_order: 2
----
-
 # Ausstellung Rathaus Lichtensteig
 
 ![](images/exhibitions2/1.jpg)

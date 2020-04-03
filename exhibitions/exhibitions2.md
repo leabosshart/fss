@@ -7,9 +7,11 @@ nav_order: 2
 
 # Ausstellung Rathaus Lichtensteig
 
-![](images/exhibitions2/1.jpg)
-![](images/exhibitions2/2.jpg)
-![](images/exhibitions2/3.jpg)
-![](images/exhibitions2/4.jpg)
-![](images/exhibitions2/5.jpg)
-![](images/exhibitions2/6.jpg)
+<!-- <img src="image.png" loading="lazy" alt="" width="768"> -->
+
+<img src="images/exhibitions2/1.jpg" loading="lazy" alt="" width="768">
+<img src="images/exhibitions2/2.jpg" loading="lazy" alt="" width="768">
+<img src="images/exhibitions2/3.jpg" loading="lazy" alt="" width="768">
+<img src="images/exhibitions2/4.jpg" loading="lazy" alt="" width="768">
+<img src="images/exhibitions2/5.jpg" loading="lazy" alt="" width="768">
+<img src="images/exhibitions2/6.jpg" loading="lazy" alt="" width="768">

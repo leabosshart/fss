@@ -1,12 +1,3 @@
-[comment]: <> (
----
-title: Werke 2015 & 2016
-parent: Galerie
-has_children: false
-nav_order: 2
----
-)
-
 # Werke 2015 & 2016
 
 ![](images/works-2015-2016/1-maze-of-colors.png)

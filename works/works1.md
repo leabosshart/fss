@@ -59,4 +59,4 @@ Rayas
 
 <img src="images/works-2017-2019/13-picos.png" loading="lazy" alt="" width="512">
 
-Picos (zweiteilig" loading="lazy" alt="" width="512">
+Picos (zweiteilig)
