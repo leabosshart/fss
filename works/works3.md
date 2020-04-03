@@ -57,7 +57,7 @@ Siebdruckstudie 82 x 115 cm
 
 <img src="images/works-2011-2014/13-genesis.png" loading="lazy" alt="" width="512">
 
-Genesis 112 110 cm
+Genesis 112 x 110 cm
 
 <img src="images/works-2011-2014/14-schwarz-gruen.png" loading="lazy" alt="" width="512">
 
