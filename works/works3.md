@@ -7,7 +7,7 @@ nav_order: 3
 
 # Werke 2011-2014
 
-![test](images/works-2011-2014/1.png)
+![](images/works-2011-2014/1.png)
 
 Ohne Titel
 
