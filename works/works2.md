@@ -7,26 +7,28 @@ nav_order: 2
 
 # Werke 2015 & 2016
 
-![](images/works-2015-2016/1-maze-of-colors.png)
+<!-- <img src="image.png" loading="lazy" alt="" width="512"> -->
+
+<img src="images/works-2015-2016/1-maze-of-colors.png" loading="lazy" alt="" width="512">
 
 Maze of Colors
 
-![](images/works-2015-2016/2-jumble-of-motifs.png)
+<img src="images/works-2015-2016/2-jumble-of-motifs.png" loading="lazy" alt="" width="512">
 
 Jumble of Motifs
 
-![](images/works-2015-2016/3.png)
+<img src="images/works-2015-2016/3.png" loading="lazy" alt="" width="512">
 
 Ohne Titel
 
-![](images/works-2015-2016/4-vernetzt-lila-gruen.png)
+<img src="images/works-2015-2016/4-vernetzt-lila-gruen.png" loading="lazy" alt="" width="512">
 
 Vernetzt / Lila / Grün 55 x 65 cm
 
-![](images/works-2015-2016/5-vernetzt-rot.png)
+<img src="images/works-2015-2016/5-vernetzt-rot.png" loading="lazy" alt="" width="512">
 
 Vernetzt / Rot 70 x 64 cm
 
-![](images/works-2015-2016/6-vernetzt-gruen-blau.png)
+<img src="images/works-2015-2016/6-vernetzt-gruen-blau.png" loading="lazy" alt="" width="512">
 
 Vernetzt / Grün / Blau 95 x 60 cm

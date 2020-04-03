@@ -7,54 +7,56 @@ nav_order: 1
 
 # Werke 2017–2019
 
-![](images/works-2017-2019/1-intersections-blue.png)
+<!-- <img src="image.png" loading="lazy" alt="" width="512"> -->
+
+<img src="images/works-2017-2019/1-intersections-blue.png" loading="lazy" alt="" width="512">
 
 Intersections Blue / Blau
 
-![](images/works-2017-2019/2-intersections-green.png)
+<img src="images/works-2017-2019/2-intersections-green.png" loading="lazy" alt="" width="512">
 
 Intersections Green / Grün
 
-![](images/works-2017-2019/3-intersections-yellow.png)
+<img src="images/works-2017-2019/3-intersections-yellow.png" loading="lazy" alt="" width="512">
 
 Intersections Yellow / Gelb
 
-![](images/works-2017-2019/4-mishmash.png)
+<img src="images/works-2017-2019/4-mishmash.png" loading="lazy" alt="" width="512">
 
 Mishmash
 
-![](images/works-2017-2019/5-bruchlinien.png)
+<img src="images/works-2017-2019/5-bruchlinien.png" loading="lazy" alt="" width="512">
 
 Bruchlinien
 
-![](images/works-2017-2019/6-in-farbe.png)
+<img src="images/works-2017-2019/6-in-farbe.png" loading="lazy" alt="" width="512">
 
 In Farbe
 
-![](images/works-2017-2019/7-schwarz-grau-weiss.png)
+<img src="images/works-2017-2019/7-schwarz-grau-weiss.png" loading="lazy" alt="" width="512">
 
 Schwarz-Grau-Weiss
 
-![](images/works-2017-2019/8-luminoso1.png)
+<img src="images/works-2017-2019/8-luminoso1.png" loading="lazy" alt="" width="512">
 
 Luminoso I
 
-![](images/works-2017-2019/9-luminoso2.png)
+<img src="images/works-2017-2019/9-luminoso2.png" loading="lazy" alt="" width="512">
 
 Luminoso II
 
-![](images/works-2017-2019/10-vibrant-color-bars.png)
+<img src="images/works-2017-2019/10-vibrant-color-bars.png" loading="lazy" alt="" width="512">
 
 Vibrant Color Bars
 
-![](images/works-2017-2019/11-complex-balance.png)
+<img src="images/works-2017-2019/11-complex-balance.png" loading="lazy" alt="" width="512">
 
 Complex Balance
 
-![](images/works-2017-2019/12-rayas.png)
+<img src="images/works-2017-2019/12-rayas.png" loading="lazy" alt="" width="512">
 
 Rayas
 
-![](images/works-2017-2019/13-picos.png)
+<img src="images/works-2017-2019/13-picos.png" loading="lazy" alt="" width="512">
 
-Picos (zweiteilig)
+Picos (zweiteilig" loading="lazy" alt="" width="512">
