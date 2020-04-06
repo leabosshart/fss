@@ -13,7 +13,7 @@ Ich wurde am 18. Dezember 1949 geboren, bin in Zürich aufgewachsen und seit 198
 
 ## Quilten und Patchworken: der Anfang
 
-Meine Initialzündung für das Quilten im Jahr 2000 war die unkonventionelle Farb- und Formgestaltung der Quilts der damals 80jährigen Berti Feissli aus Lichtensteig.
+Meine Initialzündung für das Quilten im Jahr 2000 war die unkonventionelle Farb- und Formgestaltung der Quilts der damals 80 jährigen Berti Feissli aus Lichtensteig.
 Ich erkannte, dass das Quilten nicht an traditionelle Muster gebunden und freies Gestalten möglich ist.
 Seither arbeite ich frei mit selbstgefärbten Stoffen, Stoffdruck usw.
 
