@@ -22,8 +22,6 @@ Color Improvisations 2 in Neumünster, 2016. Kuratorin: Nancy Crow > [Bernina-Bl
 
 Artikel zur Eröffnung der 6. Europäischen Quilt-Triennale in Heidelberg, 2015 > [Bernina-Blog](https://blog.bernina.com/de/2015/10/eroeffnung-europaeischen-quilt-triennale/){:target="_blank"}
 
-Einzelausstellung in Ganterschwil, 2009
-
 ## Kontakte
 
 Nancy Crow: [nancycrow.com](http://www.nancycrow.com/){:target="_blank"}
