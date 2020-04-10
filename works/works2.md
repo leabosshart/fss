@@ -30,3 +30,7 @@ Vernetzt Rot (64 x 70 cm)
 <img src="images/works-2015-2016/6-vernetzt-gruen-blau.jpg" loading="lazy" alt="" width="512" height="326">
 
 Vernetzt Grün-Blau (60 x 95 cm)
+
+<img src="images/works-2015-2016/7-shibori-gross.jpg" loading="lazy" alt="" width="512" height="508">
+
+Shibori gross
