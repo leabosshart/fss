@@ -11,4 +11,7 @@ Eindrücke vom Springfield Museum of Art in Ohio, USA, wo mein Werk «Vibrant Co
 {: .fs-6 .fw-300 }
 [Link zu der Ausstellung](http://colorimprovisations2.org/news){:target="_blank"}
 {: .fs-6 .fw-300 }
-![](images/luminoso1.jpg)
+<img src="news/images/colorimprovisations2-2020-1.jpg" loading="lazy" alt="" width="768" height="576">
+<img src="news/images/colorimprovisations2-2020-2.jpg" loading="lazy" alt="" width="768" height="576">
+<img src="news/images/colorimprovisations2-2020-3.jpg" loading="lazy" alt="" width="768" height="576">
+<!-- ![](images/luminoso1.jpg) -->
