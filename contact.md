@@ -38,8 +38,11 @@ Maryline Collioud-Robert: [marylinecollioudrobert.com](http://www.marylinecollio
 
 ## Presse
 
+Internationale Ausstellung Color Improvisation 2 in Springfield, Ohio, USA, 2020. Kuratorin: Quiltkünstlerin Nancy Crow > [Color Improvisations 2](http://colorimprovisations2.org/news){:target="_blank"}
+
 Color Improvisations 2 in Neumünster, 2016. Kuratorin: Nancy Crow > [Bernina-Blog](https://blog.bernina.com/de/2016/02/ausstellungstipps-maerz-2016/){:target="_blank"}
+
+Mini.Usstellig in Lichtensteig, Artikel über die Quilt-Künstlerin Ruth «Genähte Farbenpracht» > [St.Galler Tagblatt](https://www.tagblatt.ch/ostschweiz/appenzellerland/genaehte-farbenpracht-ld.398400){:target="_blank"}
 
 Artikel zur Eröffnung der 6. Europäischen Quilt-Triennale in Heidelberg, 2015 > [Bernina-Blog](https://blog.bernina.com/de/2015/10/eroeffnung-europaeischen-quilt-triennale/){:target="_blank"}
 
-Internationale Ausstellung Color Improvisation 2 in Springfield, Ohio, USA, 2020. Kuratorin: Quiltkünstlerin Nancy Crow > [Color Improvisations 2](http://colorimprovisations2.org/news){:target="_blank"}
