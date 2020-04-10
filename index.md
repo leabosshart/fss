@@ -8,8 +8,8 @@ nav_order: 1
 
 NEWS
 {: .label .label-red }
-Aktuell ist zb gerade eine Ausstellung in den USA, wo ein Quilt von Mimi zu sehen ist.
-{: .fs-6 .fw-300 }
+# Aktuell ist zb gerade eine Ausstellung in den USA, wo ein Quilt von Mimi zu sehen ist.
+
 ![](images/luminoso1.jpg)
 
 Eindrücke vom Springfield Museum of Art in Ohio, USA, wo mein Werk «Vibrant Color Bars» im Rahmen der «Ausstellung Color Improvisations 2» vom 4. Januar bis 29. März 2020 ausgestellt wurde.
