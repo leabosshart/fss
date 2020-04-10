@@ -7,8 +7,7 @@ nav_order: 1
 # Willkommen auf farb-stoff-stich – eine Welt voller Farben und Muster
 
 NEWS
-{: .label .label-red }
-# Aktuell ist zb gerade eine Ausstellung in den USA, wo ein Quilt von Mimi zu sehen ist.
+{: .label .label-red } # Aktuell ist zb gerade eine Ausstellung in den USA, wo ein Quilt von Mimi zu sehen ist.
 
 ![](images/luminoso1.jpg)
 
