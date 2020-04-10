@@ -7,6 +7,9 @@ has_toc: false
 
 # Ausstellungen
 
+- [Color improvisations 2 in Konstanz]({{ site.baseurl }}{% link exhibitions/exhibitions1.md %})
+- [Ausstellung Rathaus Lichtensteig]({{ site.baseurl }}{% link exhibitions/exhibitions2.md %})
+
 - November 2000: Gruppenausstellung Kirchgemeindehaus Lichtensteig/CH
 - März 2006: Einzelausstellung „Blumen im Magazin“ Ebnat-Kappel/CH
 - Februar 2008: Gruppenausstellung Schokoladenfabrik Munz AG Flawil/CH
@@ -18,6 +21,3 @@ has_toc: false
 - September 2015 – Januar 2016: 6. Europäische Quilt-Triennale in Heidelberg
 - März – August 2016: Color improvisations 2 in Neumünster
 - November – Dezember 2016: Mini.Usstellig, Kunst im Rathaus Lichtensteig
-
-- [Color improvisations 2 in Konstanz]({{ site.baseurl }}{% link exhibitions/exhibitions1.md %})
-- [Ausstellung Rathaus Lichtensteig]({{ site.baseurl }}{% link exhibitions/exhibitions2.md %})
