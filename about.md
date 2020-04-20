@@ -19,6 +19,4 @@ Seither arbeite ich frei mit selbstgefärbten Stoffen, Stoffdruck usw.
 
 ## Kurse und Techniken
 
-Nancy Crow (Ohio, USA) hat meine Arbeiten stark geprägt. Bis jetzt habe ich insgesamt fünf Workshops von Nancy in Falera (Schweiz) besucht.
-
-Ausserdem eignete ich mir systematisch dem Quilten und Patchworken verwandte Techniken zum Gebrauch in den eigenen Werken an – unter anderem: Stoff- und Siebdruck (Cécile Trentini), Shibori (Heidi Hunninghaus), Stofffärben (Heide Stoll-Weber), verschiedene Nähtechniken (Judith Mundwiler) und Sticken und Quilten (Elsbeth Nusser-Lampe).
+Nancy Crow (Ohio, USA) hat meine Arbeiten stark geprägt. Bis jetzt habe ich insgesamt fünf Workshops von Nancy in Falera (Schweiz) besucht. Ausserdem eignete ich mir systematisch dem Quilten und Patchworken verwandte Techniken zum Gebrauch in den eigenen Werken an – unter anderem: Stoff- und Siebdruck (Cécile Trentini), Shibori (Heidi Hunninghaus), Stofffärben (Heide Stoll-Weber), verschiedene Nähtechniken (Judith Mundwiler) und Sticken und Quilten (Elsbeth Nusser-Lampe).
