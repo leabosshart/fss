@@ -37,15 +37,15 @@ Remolino (80 x 87 cm)
 
 <img src="images/works-2011-2014/8-feuerundeis.jpg" loading="lazy" alt="" width="512" height="614">
 
-Feuer und Eis (115 x 180 cm)
+Feuer und Eis (180 x 115 cm)
 
 <img src="images/works-2011-2014/9-lollipop.jpg" loading="lazy" alt="" width="512" height="970">
 
-Lollipop (36 x 67 cm)
+Lollipop (67 x 36 cm)
 
 <img src="images/works-2011-2014/10-shibori1.jpg" loading="lazy" alt="" width="512" height="752">
 
-Shibori I (57 x 80 cm)
+Shibori I (80 x 57 cm)
 
 <img src="images/works-2011-2014/11-shibori2.jpg" loading="lazy" alt="" width="512" height="556">
 
@@ -53,7 +53,7 @@ Shibori II (95 x 85 cm)
 
 <img src="images/works-2011-2014/12-siebdruckstudie.jpg" loading="lazy" alt="" width="512" height="708">
 
-Siebdruckstudie (82 x 115 cm)
+Siebdruckstudie (115 x 82 cm)
 
 <img src="images/works-2011-2014/13-genesis.jpg" loading="lazy" alt="" width="512" height="502">
 
@@ -61,7 +61,7 @@ Genesis (112 x 110 cm)
 
 <img src="images/works-2011-2014/14-schwarz-gruen.jpg" loading="lazy" alt="" width="512" height="609">
 
-Schwarz-Grün (110 x 125 cm)
+Schwarz-Grün (125 x 110 cm)
 
 <img src="images/works-2011-2014/15-savannah.jpg" loading="lazy" alt="" width="512" height="469">
 
