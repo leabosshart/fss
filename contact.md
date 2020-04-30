@@ -38,6 +38,8 @@ Maryline Collioud-Robert: [marylinecollioudrobert.com](http://www.marylinecollio
 
 ## Presse
 
+Coverbild im PatCHquilt-Bulletin vom Frühling 2020 > <a href="documents/patchquilt-bulletin.pdf" target="_blank">PatCHquilt-Bulletin</a>
+
 Internationale Ausstellung Color Improvisation 2 in Springfield, Ohio, USA, 2020. Kuratorin: Quiltkünstlerin Nancy Crow > [Color Improvisations 2](http://colorimprovisations2.org/news){:target="_blank"}
 
 Color Improvisations 2 in Neumünster, 2016. Kuratorin: Nancy Crow > [Bernina-Blog](https://blog.bernina.com/de/2016/02/ausstellungstipps-maerz-2016/){:target="_blank"}
