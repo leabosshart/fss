@@ -13,10 +13,10 @@ has_toc: false
 - 2016: Color Improvisations 2 in Neumünster, Deutschland
 - 2015/2016: 6. Europäische Quilt-Triennale in Heidelberg, Deutschland
 - 2012: Einzelausstellung «Blumen im Magazin» in Ebnat-Kappel, Schweiz
-- 2011: Gruppenausstellung von Schülerinnen von Nancy Crow Karlsruhe, Deutschland
-- 2009: Einzelausstellung Pfarreiheim in Ganterschwil, Schweiz
+- 2011: Gruppenausstellung von Schülerinnen von Nancy Crow in Karlsruhe, Deutschland
+- 2009: Einzelausstellung im Pfarrheim in Ganterschwil, Schweiz
 - 2009: Ausstellung Kunsthandwerkgalerie in Lütisburg, Schweiz
 - 2008: Gruppenausstellung im Möbelhaus Oertli, Quiltgruppe Mönchaltdorf, Schweiz
-- 2008: Gruppenausstellung Schokoladenfabrik Munz AG in Flawil, Schweiz
+- 2008: Gruppenausstellung in der Schokoladenfabrik Munz AG in Flawil, Schweiz
 - 2006: Einzelausstellung «Blumen im Magazin» in Ebnat-Kappel, Schweiz
-- 2000: Gruppenausstellung Kirchgemeindehaus in Lichtensteig, Schweiz
+- 2000: Gruppenausstellung im Kirchgemeindehaus in Lichtensteig, Schweiz
