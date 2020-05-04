@@ -7,7 +7,7 @@ has_toc: false
 
 # Ausstellungen
 
-- 2020: Springfield Museum of Art in Ohio, USA
+- 2020: Color Improvisations 2 im Springfield Museum of Art in Ohio, USA
 - [2017: Color Improvisations 2 in Konstanz, Deutschland]({{ site.baseurl }}{% link exhibitions/exhibitions1.md %})
 - [2016: Mini.Usstellig, Kunst im Rathaus Lichtensteig, Schweiz]({{ site.baseurl }}{% link exhibitions/exhibitions2.md %})
 - 2016: Color Improvisations 2 in Neumünster, Deutschland
