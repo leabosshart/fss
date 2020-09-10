@@ -2,7 +2,7 @@
 title: Werke 2017–2019
 parent: Galerie
 has_children: false
-nav_order: 1
+nav_order: 2
 ---
 
 # Werke 2017–2019
