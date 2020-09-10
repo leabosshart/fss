@@ -22,3 +22,7 @@ Teclas I (50 x 48 cm)
 <img src="images/works-2020/4-rosso.jpg" loading="lazy" alt="" width="512" height="1876">
 
 Rosso (112 x 42 cm)
+
+<img src="images/works-2020/5-feinelinienblau.jpg" loading="lazy" alt="" width="512" height="512">
+
+Feine Linien Blau 
