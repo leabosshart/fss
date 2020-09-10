@@ -2,7 +2,7 @@
 title: Werke 2015 & 2016
 parent: Galerie
 has_children: false
-nav_order: 2
+nav_order: 3
 ---
 
 # Werke 2015 & 2016
