@@ -25,4 +25,4 @@ Rosso (112 x 42 cm)
 
 <img src="images/works-2020/5-feinelinienblau.jpg" loading="lazy" alt="" width="512" height="512">
 
-Feine Linien Blau 
+Feine Linien Blau (48 x 48 cm)
